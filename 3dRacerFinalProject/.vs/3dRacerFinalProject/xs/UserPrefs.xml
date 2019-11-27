@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{24239148-2FE5-8F11-FFCC-B608CC2DFDF4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WheelSkid.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CarController.cs" Line="34" Column="10" />
+      <File FileName="Assets/Scripts/CameraController.cs" Line="29" Column="111" />
+      <File FileName="Assets/Scripts/WheelSkid.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="3dRacerFinalProject" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="WheelSkid.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3e0a982a-5a68-4237-9cf8-a48059c0393e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
